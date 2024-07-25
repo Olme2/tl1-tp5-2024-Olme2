@@ -1,0 +1,95 @@
+Proveedor 1 
+------------------------- 
+Descripcion: Queso Crema Clasico Casancrem 480gr Categoria: Lacteos precio: 931 Stock: 200
+Descripcion: Queso Untable Finlandia 180 Gr Categoria: Lacteos precio: 501 Stock: 100
+Descripcion: Leche Entera Clasica La Serenisima Sachet 1 L Categoria: Lacteos precio: 265 Stock: 10
+Descripcion: Yogur Cremix Conicet Vainilla Pack X4 Yogurisimo 120gr Categoria: Lacteos precio: 745 Stock: 200
+Descripcion: Manteca Casanto 200g Categoria: Lacteos precio: 401 Stock: 200
+Descripcion: Yogur Bebible Descremado Frutilla La Serenisima Clasico 900gr Categoria: Lacteos precio: 375 Stock: 200
+Descripcion: Rapiditas Bimbo Clasicas X 275grs Categoria: Panaderia precio: 442 Stock: 0
+Descripcion: Palmeritas De Manteca 200 Gr Categoria: Panaderia precio: 741 Stock: 0
+Descripcion: Cookies Con Chip De Chocolate Categoria: Panaderia precio: 681 Stock: 2200
+Descripcion: Bizcochuelo Humedo Categoria: Panaderia precio: 1039 Stock: 160
+Descripcion: Alfajorcitos De Maizena 240 Gr Categoria: Panaderia precio: 584 Stock: 98
+Descripcion: Agua Mineral Cuisine & Co Sin Gas 2l Categoria: Liquidos precio: 208 Stock: 57
+Descripcion: Soda Sifon 1 Categoria: Liquidos precio: 321 Stock: 25
+Descripcion: Aceite De Oliva Extra Virgen Cuisine & Co 500 Categoria: Liquidos precio: 1166 Stock: 7
+Descripcion: Gaseosa Cola Pepsi Regular 2.25lLiquidos Categoria: Liquidos precio: 499 Stock: 4
+Descripcion: Gaseosa Coca-cola Sabor Original 500 Ml Categoria: Liquidos precio: 234 Stock: 26
+Descripcion: Gaseosa Sprite Lima-limon 2,25 Lt Categoria: Liquidos precio: 628 Stock: 33
+------------------------- 
+
+ LISTA: Todos los productos
+
+NODO - 1 Descripcion: Gaseosa Sprite Lima-limon 2,25 Lt Categoria: Liquidos precio: 628 Stock: 33
+NODO - 2 Descripcion: Gaseosa Coca-cola Sabor Original 500 Ml Categoria: Liquidos precio: 234 Stock: 26
+NODO - 3 Descripcion: Gaseosa Cola Pepsi Regular 2.25lLiquidos Categoria: Liquidos precio: 499 Stock: 4
+NODO - 4 Descripcion: Aceite De Oliva Extra Virgen Cuisine & Co 500 Categoria: Liquidos precio: 1166 Stock: 7
+NODO - 5 Descripcion: Soda Sifon 1 Categoria: Liquidos precio: 321 Stock: 25
+NODO - 6 Descripcion: Agua Mineral Cuisine & Co Sin Gas 2l Categoria: Liquidos precio: 208 Stock: 57
+NODO - 7 Descripcion: Alfajorcitos De Maizena 240 Gr Categoria: Panaderia precio: 584 Stock: 98
+NODO - 8 Descripcion: Bizcochuelo Humedo Categoria: Panaderia precio: 1039 Stock: 160
+NODO - 9 Descripcion: Cookies Con Chip De Chocolate Categoria: Panaderia precio: 681 Stock: 2200
+NODO - 10 Descripcion: Palmeritas De Manteca 200 Gr Categoria: Panaderia precio: 741 Stock: 0
+NODO - 11 Descripcion: Rapiditas Bimbo Clasicas X 275grs Categoria: Panaderia precio: 442 Stock: 0
+NODO - 12 Descripcion: Yogur Bebible Descremado Frutilla La Serenisima Clasico 900gr Categoria: Lacteos precio: 375 Stock: 200
+NODO - 13 Descripcion: Manteca Casanto 200g Categoria: Lacteos precio: 401 Stock: 200
+NODO - 14 Descripcion: Yogur Cremix Conicet Vainilla Pack X4 Yogurisimo 120gr Categoria: Lacteos precio: 745 Stock: 200
+NODO - 15 Descripcion: Leche Entera Clasica La Serenisima Sachet 1 L Categoria: Lacteos precio: 265 Stock: 10
+NODO - 16 Descripcion: Queso Untable Finlandia 180 Gr Categoria: Lacteos precio: 501 Stock: 100
+NODO - 17 Descripcion: Queso Crema Clasico Casancrem 480gr Categoria: Lacteos precio: 931 Stock: 200
+Cantidad de elementos: 17
+Ingrese precio: 
+Precio ingresado: 500.000000
+ LISTA: Productos con precio filtrado
+
+NODO - 1 Descripcion: Queso Crema Clasico Casancrem 480gr Categoria: Lacteos precio: 931 Stock: 200
+NODO - 2 Descripcion: Queso Untable Finlandia 180 Gr Categoria: Lacteos precio: 501 Stock: 100
+NODO - 3 Descripcion: Yogur Cremix Conicet Vainilla Pack X4 Yogurisimo 120gr Categoria: Lacteos precio: 745 Stock: 200
+NODO - 4 Descripcion: Palmeritas De Manteca 200 Gr Categoria: Panaderia precio: 741 Stock: 0
+NODO - 5 Descripcion: Cookies Con Chip De Chocolate Categoria: Panaderia precio: 681 Stock: 2200
+NODO - 6 Descripcion: Bizcochuelo Humedo Categoria: Panaderia precio: 1039 Stock: 160
+NODO - 7 Descripcion: Alfajorcitos De Maizena 240 Gr Categoria: Panaderia precio: 584 Stock: 98
+NODO - 8 Descripcion: Aceite De Oliva Extra Virgen Cuisine & Co 500 Categoria: Liquidos precio: 1166 Stock: 7
+NODO - 9 Descripcion: Gaseosa Sprite Lima-limon 2,25 Lt Categoria: Liquidos precio: 628 Stock: 33
+Cantidad de elementos: 9
+
+Cantidad de productos sin stock: 2
+Ingrese stock: 
+Stock ingresado: 10
+ LISTA: Productos con stock mayor al ingresado
+
+NODO - 1 Descripcion: Queso Crema Clasico Casancrem 480gr Categoria: Lacteos precio: 931 Stock: 200
+NODO - 2 Descripcion: Queso Untable Finlandia 180 Gr Categoria: Lacteos precio: 501 Stock: 100
+NODO - 3 Descripcion: Yogur Cremix Conicet Vainilla Pack X4 Yogurisimo 120gr Categoria: Lacteos precio: 745 Stock: 200
+NODO - 4 Descripcion: Manteca Casanto 200g Categoria: Lacteos precio: 401 Stock: 200
+NODO - 5 Descripcion: Yogur Bebible Descremado Frutilla La Serenisima Clasico 900gr Categoria: Lacteos precio: 375 Stock: 200
+NODO - 6 Descripcion: Cookies Con Chip De Chocolate Categoria: Panaderia precio: 681 Stock: 2200
+NODO - 7 Descripcion: Bizcochuelo Humedo Categoria: Panaderia precio: 1039 Stock: 160
+NODO - 8 Descripcion: Alfajorcitos De Maizena 240 Gr Categoria: Panaderia precio: 584 Stock: 98
+NODO - 9 Descripcion: Agua Mineral Cuisine & Co Sin Gas 2l Categoria: Liquidos precio: 208 Stock: 57
+NODO - 10 Descripcion: Soda Sifon 1 Categoria: Liquidos precio: 321 Stock: 25
+NODO - 11 Descripcion: Gaseosa Coca-cola Sabor Original 500 Ml Categoria: Liquidos precio: 234 Stock: 26
+NODO - 12 Descripcion: Gaseosa Sprite Lima-limon 2,25 Lt Categoria: Liquidos precio: 628 Stock: 33
+Cantidad de elementos: 12
+
+ LISTA: Productos con stock menor a al ingresado
+
+NODO - 1 Descripcion: Gaseosa Cola Pepsi Regular 2.25lLiquidos Categoria: Liquidos precio: 499 Stock: 4
+NODO - 2 Descripcion: Aceite De Oliva Extra Virgen Cuisine & Co 500 Categoria: Liquidos precio: 1166 Stock: 7
+NODO - 3 Descripcion: Palmeritas De Manteca 200 Gr Categoria: Panaderia precio: 741 Stock: 0
+NODO - 4 Descripcion: Rapiditas Bimbo Clasicas X 275grs Categoria: Panaderia precio: 442 Stock: 0
+NODO - 5 Descripcion: Leche Entera Clasica La Serenisima Sachet 1 L Categoria: Lacteos precio: 265 Stock: 10
+Cantidad de elementos: 5
+
+ LISTA: Lista vacia de listaDeProductos 
+
+Cantidad de elementos: 0
+
+ LISTA: Lista vacia de productosFiltradosPorPrecio
+
+Cantidad de elementos: 0
+
+ LISTA: Lista vacia de productosSinStock
+
+Cantidad de elementos: 0
